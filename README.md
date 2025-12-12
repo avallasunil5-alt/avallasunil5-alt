@@ -1,111 +1,119 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00AEEF&width=650&lines=Hi%F0%9F%91%8B%2C+I'm+Avalla+Sunil;Python+Developer+%7C+Data+Analyst;Passionate+about+Data+%26+Automation;">
+# Hi, I'm **Sunil Avala**
+### Data Analyst | Cybersecurity Enthusiast | Machine Learning Learner  
+
+![Banner](https://img.shields.io/badge/Data%20Analytics%20%7C%20Cybersecurity%20%7C%20ML-000000?style=for-the-badge)
+
+Transforming raw data into meaningful insights and building secure, intelligence-driven systems that enhance visibility, decision-making, and cyber resilience.
+
+---
+
+## 🧩 About Me
+I’m a data-driven analyst skilled in **Python, SQL, Power BI**, and **cybersecurity analytics**, with hands-on experience in ML-based detection systems, honeypots, and network traffic analysis.  
+I enjoy solving analytical problems, building intuitive dashboards, and exploring the intersection of data and security.
+
+---
+
+## 🛠️ Tech Stack & Tools  
+
+### **Languages & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-006699?logo=Mathworks&logoColor=white)
+
+### **Data Analysis & Visualization**
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0C4B33?logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
+### **Cybersecurity & Networking**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Mininet](https://img.shields.io/badge/Mininet-FF6F61)
+![Honeypot](https://img.shields.io/badge/Cowrie-Honeypot-blue)
+
+### **Version Control & Other Tools**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 📌 Featured Projects  
+
+### **🔷 Machine Learning Model for Cyberattack Detection in SDN**
+*Python, Mininet, Wireshark, Random Forest, SVM*  
+- Developed an ML intrusion detection model for DDoS and spoofing attacks.  
+- Collected and analyzed SDN traffic using Mininet and Wireshark.  
+- Improved anomaly detection accuracy using optimized ML pipelines.
+
+---
+
+### **🔷 Decoy-Based Detection Through Honeypot System**
+*Python, Cowrie Honeypot, Log Analysis*  
+- Deployed a Cowrie honeypot to study unauthorized SSH intrusions.  
+- Analyzed attacker log signatures and behavioral patterns.  
+- Strengthened early threat detection using decoy-based isolation.
+
+---
+
+### **🔷 Sales Performance & KPI Dashboard**
+*Python, SQL, Pandas, Power BI, Excel*  
+- Cleaned and transformed 20K+ rows of sales data.  
+- Developed a KPI dashboard for revenue trends and customer insights.  
+- Automated reporting processes, reducing manual work by 40%.
+
+---
+
+## 💼 Experience  
+
+### **Junior Analyst Intern — Vangrovee Tech (Hyderabad, 2025)**  
+- Improved data quality by 15% using Python and SQL pipelines.  
+- Built Power BI dashboards for performance and KPI tracking.  
+- Supported catalog operations via collaboration with cross-functional teams.
+
+---
+
+## 🎓 Education  
+**B.Tech — Cyber Security, CMR Engineering College (2025)**  
+
+---
+
+## 📜 Certifications  
+- Data Analytics Virtual Experience — Deloitte Australia (Forage)  
+- SQL for Data Analysis — Udemy  
+
+---
+
+## 📈 GitHub Insights  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=avallasunil5-alt&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avallasunil5-alt" height="160"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avallasunil5-alt&layout=compact" height="160"/>
 </p>
 
 ---
 
-# 🧠 Python & Data Analytics Portfolio
-<h3 align="center">🔍 Data-Driven Thinker | Python Enthusiast | Analytics Professional</h3>
+## 📊 GitHub Activity Graph
+
+[![Sunil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avallasunil5-alt&theme=github-compact&area=true)](https://github.com/avallasunil5-alt)
 
 ---
 
-## 👨‍💻 About Me  
-🚀 I’m a passionate **Python Developer & Data Analyst** focused on turning data into clear, actionable insights.  
-📊 Skilled in **data cleaning, visualization, analytics, and automation**.  
-📈 Currently exploring advanced topics in **Power BI, SQL, and Machine Learning basics**.  
-🤝 Open to collaborations in **data analytics, dashboards, and Python automation**.  
-📫 Email: **avallasunil5@gmail.com**
+## 📫 Connect With Me  
+**LinkedIn:** https://www.linkedin.com/in/sunil-sunil-aa0a25374  
+**Email:** avallasunil5@gmail.com  
+**Phone:** +91 86881 23715  
 
 ---
 
-## 🧰 Languages & Tools  
-
-### 🐍 **Programming & Scripting**
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="55" />
-</p>
-
-### 📊 **Data Analysis & Processing**
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" height="55" />
-</p>
-
-### 📈 **Data Visualization**
-<p>
-  <img src="https://skillicons.dev/icons?i=matplotlib,seaborn" height="55" />
-  <img src="https://skillicons.dev/icons?i=plotly" height="55" />
-</p>
-
-### 🧠 **Machine Learning (Basics)**
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn" height="55" />
-</p>
-
-### 🗄️ **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="55" />
-</p>
-
-### 🛠️ **Development Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,anaconda,jupyter" height="55" />
-</p>
-
-### 🧭 **Version Control**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" height="55" />
-</p>
-
-### 📊 **Dashboarding**
-<p>
-  <img src="https://skillicons.dev/icons?i=powerbi" height="55" />
-</p>
-
----
-
-## 📊 GitHub Analytics  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Featured Projects  
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [📈 Sales Data Analysis](https://github.com/YOUR-GITHUB-USERNAME/sales-data-analysis) | Performed sales trend analysis and visual insights | Python, Pandas, Matplotlib |
-| [🧹 Data Cleaning Toolkit](https://github.com/YOUR-GITHUB-USERNAME/data-cleaning-toolkit) | Automated data preprocessing pipeline | Python, Pandas |
-| [📊 Customer Segmentation](https://github.com/YOUR-GITHUB-USERNAME/customer-segmentation) | K-Means clustering for customer segmentation | Scikit-learn, Seaborn |
-
----
-
-## 🏆 Certifications  
-- 📜 **Google Data Analytics Certificate**  
-- 📜 **IBM Python for Data Science**  
-- 📜 **SQL for Data Analysis (Udemy)**  
-
----
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/sunil-sunil-aa0a25374/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:avallasunil5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💬 Quote  
-> “Data is the new oil — but Python is the refinery.” 🐍  
-
----
-
-<p align="center"><b>⭐ If you like my work, consider following & starring my repositories!</b></p>
+## ⭐ Open to Collaboration  
+- Data analysis & dashboarding  
+- Machine learning for security  
+- SDN security & honeypots  
+- Automation & reporting pipelines  
